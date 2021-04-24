@@ -7,7 +7,7 @@ This library is created with a Python script
 This script can save around 95% of the time to create the library * .
 The other 5% is handmaking, because is very complex programming it.
 
-* One symbol of this with around 400 pins needs at least 4 hours to be created.
+*One symbol of this with around 400 pins needs at least 4 hours to be created.
 
 # [Library](Zynq7000.lib)
 Library with every symbol
