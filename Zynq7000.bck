@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP xc7z007sclg225pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z007sclg225pkg.txt
+$ENDCMP
+#
+$CMP xc7z007sclg400pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z007sclg400pkg.txt
+$ENDCMP
+#
+$CMP xc7z010clg225pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z010clg225pkg.txt
+$ENDCMP
+#
+$CMP xc7z010clg400pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z010clg400pkg.txt
+$ENDCMP
+#
+$CMP xc7z012sclg485pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z012sclg485pkg.txt
+$ENDCMP
+#
+$CMP xc7z014sclg400pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z014sclg400pkg.txt
+$ENDCMP
+#
+$CMP xc7z014sclg484pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z014sclg484pkg.txt
+$ENDCMP
+#
+$CMP xc7z015clg485pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z015clg485pkg.txt
+$ENDCMP
+#
+$CMP xc7z020clg400pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z020clg400pkg.txt
+$ENDCMP
+#
+$CMP xc7z020clg484pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z020clg484pkg.txt
+$ENDCMP
+#
+$CMP xc7z030fbg484pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z030fbg484pkg.txt
+$ENDCMP
+#
+$CMP xc7z030fbg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z030fbg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z030ffg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z030ffg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z030sbg485pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z030sbg485pkg.txt
+$ENDCMP
+#
+$CMP xc7z035fbg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z035fbg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z035ffg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z035ffg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z035ffg900pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z035ffg900pkg.txt
+$ENDCMP
+#
+$CMP xc7z045fbg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z045fbg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z045ffg676pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z045ffg676pkg.txt
+$ENDCMP
+#
+$CMP xc7z045ffg900pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z045ffg900pkg.txt
+$ENDCMP
+#
+$CMP xc7z100ffg1156pkg
+F https://www.xilinx.com/support/packagefiles/z7packages/xc7z100ffg1156pkg.txt
+$ENDCMP
+#
+#End Doc Library
