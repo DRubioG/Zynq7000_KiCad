@@ -9,7 +9,7 @@ The other 5% is handmaking, because is very complex programming it.
 
 * One symbol of this with around 400 pins needs at least 4 hours to be created.
 
-# [Library](Zynq700.lib)
+# [Library](Zynq7000.lib)
 Library with every symbol
 
 # [Footprints](/Zynq7000.pretty)
